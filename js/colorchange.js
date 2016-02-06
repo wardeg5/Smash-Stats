@@ -1,0 +1,82 @@
+
+
+$(document).ready(function(){
+   $(".btn-primary").hover(function(){
+		document.getElementById('toggle').play();
+    });
+   $("#toggle2").click(function(){
+		document.getElementById('ok').play();
+    });
+    $("#toggle1").click(function(){
+		document.getElementById('back').play();
+    });
+    $("#toggle4").click(function(){
+		document.getElementById('ok').play();
+    });
+    $("#toggle3").click(function(){
+		document.getElementById('back').play();
+    });
+    $("#toggle6").click(function(){
+		document.getElementById('ok').play();
+    });
+    $("#toggle5").click(function(){
+		document.getElementById('back').play();
+    });
+    $("#toggle8").click(function(){
+		document.getElementById('ok').play();
+    });
+    $("#toggle7").click(function(){
+		document.getElementById('back').play();
+    });
+    $("#toggle10").click(function(){
+		document.getElementById('ok').play();
+    });
+    $("#toggle9").click(function(){
+		document.getElementById('back').play();
+    });
+     $("#toggle12").click(function(){
+        document.getElementById('ok').play();
+    });
+    $("#toggle11").click(function(){
+        document.getElementById('back').play();
+    });
+         $("#toggle14").click(function(){
+        document.getElementById('ok').play();
+    });
+    $("#toggle13").click(function(){
+        document.getElementById('back').play();
+    });
+             $("#toggle16").click(function(){
+        document.getElementById('ok').play();
+    });
+    $("#toggle15").click(function(){
+        document.getElementById('back').play();
+    });
+                 $("#toggle18").click(function(){
+        document.getElementById('ok').play();
+    });
+    $("#toggle17").click(function(){
+        document.getElementById('back').play();
+    });
+
+                    $("#toggle20").click(function(){
+        document.getElementById('ok').play();
+    });
+     $("#toggle19").click(function(){
+        document.getElementById('back').play();
+    });
+
+                        $("#toggle22").click(function(){
+        document.getElementById('ok').play();
+    });
+     $("#toggle21").click(function(){
+        document.getElementById('back').play();
+    });
+
+                             $("#toggle24").click(function(){
+        document.getElementById('ok').play();
+    });
+     $("#toggle23").click(function(){
+        document.getElementById('back').play();
+    });
+});

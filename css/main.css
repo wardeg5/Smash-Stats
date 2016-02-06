@@ -1,0 +1,151 @@
+       #centered{
+           display: block;
+           margin-left: auto;
+           margin-right: auto;
+           width:auto;
+           max-width:100%;
+       }
+
+html, body, footer{
+    background:#F0F5F5;
+
+}
+#definitions{
+    position:relative;
+    left:5%;
+    max-width:90%;
+    font-family: 'Roboto', sans-serif;
+
+}
+.btn-primary{
+    width: 45%;
+    height: 50px;
+    font-size:18px;
+    z-index: 2;
+    padding-top: 10px;
+    padding-bottom: 0px;
+
+    padding-left: 0 auto;
+    padding-right: 0 auto;
+    margin:0 auto;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    position: relative;
+    bottom: 10px;
+    border-radius:0px;
+    min-width:555px;
+
+    
+}
+        #output, #averages, #speed, #falling, #jumping, #shorthop, #fulljump, #ledgelow, #ledgehigh, #wavedash, #grab{
+            position:relative;
+           
+            position:relative;
+            left:5%;
+            max-width:50%;
+            font-family: 'Roboto', sans-serif;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+     #toggle1, #toggle2, #toggle3, #toggle4,#toggle5, #toggle6, #toggle7, #toggle8, #toggle9, #toggle10, #toggle11, #toggle12, #toggle13, #toggle14, #toggle15, #toggle16, #toggle17, #toggle18, #toggle19, #toggle20, #toggle21 {
+          padding-left:20%;
+          padding-right:20%;
+
+ 
+
+    z-index: 2;
+ 
+     }
+
+     #nightmode{
+        position:relative;
+        float:right;
+     }
+     html, body, footer{
+     background: #132639;
+     color:white;
+     }
+
+     #credits {
+    color: white;
+     }
+
+     #nightbutton {
+         color:black;
+         }
+
+
+
+
+     #play1, #play2, #play3, #play4, #play5, #play6, #play7, #play8, #play9, #play10, #play11, #play12 {
+        border-color: gold;
+         border-width:4px;
+        border-style:outset;
+         border-radius:20px;
+         background:black;
+         width:50%;
+         height:50px;
+         font-size:21px;
+         color:gold;
+     }
+#menubtn{
+    width:6%;
+    height:120%;
+    z-index:100;
+    bottom:-10%;
+    left:95%;
+    position:absolute;
+}
+#container1{
+    position:relative;
+
+}
+     #play1{
+         left:26%;
+     }
+
+     #play2{
+         left:23%;
+     }
+
+     #play3{
+         left:20%;
+     }
+
+     #play4{
+         left:24%;
+     }
+
+     #play5{
+         left:21%;
+     }
+     #play6{
+         left:24%;
+     }
+#play7{
+         left:26%;
+     }
+     #play8{
+         left:24%;
+     }
+          
+     #play9{
+         left:26%;
+
+     }
+    #play10{
+        left:26%;
+    }
+     #play11{
+        left:22%;
+    }
+      #play12{
+        left:26%;
+    }
+footer{
+    float:left;
+    position:relative;
+    margin-top:300px;
+
+}
